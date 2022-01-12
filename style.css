@@ -282,7 +282,7 @@ header {
   width: 100%;
 }
 .cw-below:hover{
-  /* position:absolute; */
+  position:absolute;
   z-index: 99999;
   transform: scale(1.1);
   width: 300px;
